@@ -1,16 +1,32 @@
-# devtools
-This Is A Simple (REALLY SIMPLE) Website
+# ⚡ DevTools
 
+A small website with useful tools for developers.
 
-If You Know Something In .js you can host it on express by "npm install express".
+## ✨ Features
 
+- 🎨 Random color generator
+- 🔢 Random number generator
+- 📋 Copy colors to clipboard
+- 🌙 Dark interface
+- 📱 Responsive design
 
-This Is All
+## 🛠️ Technologies
 
+- HTML
+- CSS
+- JavaScript
 
-If You Want To Ask Me Something, Go to My Git Profile -> social links -> discord
+## 🚀 Getting Started
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sn1p3rx7/devtools
 
-BYE 
+## 📬 Contact
 
-- sn1p3rx7
+Want to get in touch?
+
+- 🐙 GitHub: [My GitHub Profile](https://github.com/sn1p3rx7)
+- 💬 Discord: Check the **Social Links** section on my GitHub profile.
+
+Feel free to reach out!
